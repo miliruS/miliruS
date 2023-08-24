@@ -1,13 +1,16 @@
-# sobre o pai
+### Boas vindas ao meu perfil 🍌 🍑
+
+Meu nome é Murilo 
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo :mailbox
+
+murilo.sarmento@escola.pr.gov.br
+
+![](https://media.tenor.com/nywtA7PYJrMAAAAd/monke-funny-monke.gif)
 
 
-- :+1:👋 meu  nome é @miliruS
-- meu email para contato é  murilo.sarmento@escola.pr.gov.br
-- 👀 estou interessado em aprender a programar novas linguagens
-- 🌱 estou aprendendo a programar recentimente a linguagem JavaScript e Scratch
--
 
-<!---
-miliruS/miliruS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
