@@ -6,11 +6,10 @@ Meu nome é Murilo
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo 🎱
 
 murilo.sarmento@escola.pr.gov.br
 
-![](https://media.tenor.com/nywtA7PYJrMAAAAd/monke-funny-monke.gif)
-
+![](https://media.tenor.com/zCWcvMByt9kAAAAd/monkey-rizz-lightskin-stare.gif)
 
 
